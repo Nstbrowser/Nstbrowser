@@ -4,6 +4,8 @@ Welcome to the official repository of **Nstbrowser**, your ultimate solution for
 
 ## 🌟 Key Features
 - **Free Fingerprint Browser**: Unlimited configurations, real browser fingerprints, and multi-account management.
+- **Based on Real Fingerprints**: Leverage authentic fingerprints for enhanced anonymity and security.
+- **Comprehensive API Documentation**: Easily enable secondary development with detailed API resources.
 - **Cloud-Based Solutions**: Enterprise-grade automation with cloud cluster services, freeing up local resources.
 - **Web Scraping & Automation**: Seamless integration with Puppeteer, Playwright, Selenium, and more.
 - **Anti-Detection Tools**: Bypass anti-bot detection with intelligent proxy rotation, CAPTCHA solving, and Cloudflare bypass.
@@ -11,8 +13,8 @@ Welcome to the official repository of **Nstbrowser**, your ultimate solution for
 
 ## 🎯 Why Choose Nstbrowser?
 - Simplify complex automation tasks with drag-and-drop RPA tools.
-- Ensure data security with SSL encryption, 2FA, and login alerts.
-- Access a 24/7 professional support team for customized solutions.
+- Professional and efficient R&D team, ensuring rapid fingerprint and browser kernel updates.
+- Tailored for developers and enterprise clients, offering extensive integration and secondary development solutions.
 
 ## 🚀 Get Started
 - [Download Nstbrowser](https://www.nstbrowser.io/en/download) for free.
